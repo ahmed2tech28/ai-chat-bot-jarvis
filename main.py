@@ -1,4 +1,4 @@
-API_KEY = "YOUR_API_KEY_HERE"
+API_KEY = "AIzaSyBLId_7mQrevKS86nS6lLfpLyrIwDjWY94"
 # curl \
 #   -H "Content-Type: application/json" \
 #   -d "{\"contents\":[{\"parts\":[{\"text\":\"Explain how AI works\"}]}]}" \
